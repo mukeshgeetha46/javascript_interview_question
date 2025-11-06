@@ -24,7 +24,7 @@ animateAll(animate);
 
 // 2) SYNCRONOUS JAVASCRIPT
 
-// . Asynchronous means code runs one line after another - each task wait for the previous one to finish
+// . synchronous means code runs one line after another - each task wait for the previous one to finish
 
 // 🧱 Synchronous Example
 console.log("Start");
