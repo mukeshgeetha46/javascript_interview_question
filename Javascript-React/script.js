@@ -1,6 +1,6 @@
 // 1) CALLBACKS
 
-// . A javascript callback is funtion which is to be executed after another fnction has fineished executing.
+// . A javascript callback is funtion which is to be executed after another function has fineished executing.
 
 let fruits = ['Apple', 'Banana', 'Cherry', 'Date', 'Elderberry'];
 

@@ -5,4 +5,4 @@
 //. Nested object or array are still shared between the original and copy
 
 // Deep Copy
-//.  A deep copy completely crete new object or array where all nested object or array are also copied.so no reference ar shared
+//.  A deep copy completely crete new object or array where all nested object or array are also copied.so no reference are shared
